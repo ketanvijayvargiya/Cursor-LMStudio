@@ -1,0 +1,7 @@
+{
+  "cursor.cpp.enabled": true,
+  "cursor.general.openaiBaseUrl": "http://localhost:1234/v1",
+  "cursor.general.customModelName": "llama-3-8b-instruct",
+  "cursor.chat.model": "llama-3-8b-instruct",
+  "cursor.composer.model": "llama-3-8b-instruct"
+}

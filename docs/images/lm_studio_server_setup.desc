@@ -1,0 +1,7 @@
+This screenshot should show the LM Studio interface with the "Local Server" tab selected.
+Key elements to capture:
+1. The "Local Server" icon highlighted in the left sidebar.
+2. A model selected in the top dropdown (e.g., Llama 3).
+3. The "Start Server" button (or "Stop Server" if already running).
+4. The server logs showing "Server is listening on port 1234".
+5. The CORS settings checkbox (if visible) being checked.

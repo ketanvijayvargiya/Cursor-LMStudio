@@ -1,0 +1,7 @@
+This screenshot should show the Cursor Settings page, specifically the "Models" tab.
+Key elements to capture:
+1. "Models" selected in the Cursor Settings sidebar.
+2. The "OpenAI API" section.
+3. The "Base URL" field filled with "http://localhost:1234/v1" or an ngrok URL.
+4. An arbitrary API key entered in the "API Key" field.
+5. A custom model name (e.g., "llama-3-8b") added to the model list.
